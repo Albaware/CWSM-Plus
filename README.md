@@ -6,9 +6,8 @@ _This mod is mainly supposed to be an add-on for Cracker's Wither Storm Mod. Th
 
 
 
-**FAQ**
 
- 
+**FAQ**
 
 Q: Will features be removed from CWSM+ when they are added in CWSM?
 A: Yes, Once a feature from this mod is added into CWSM it will be removed from this mod (Unless people want to keep it)
